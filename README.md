@@ -24,15 +24,22 @@ The webpage **[UFO Sightings - The Truth is Out There] has been created. Upon en
 
 - You will notice that a **"Filter Search"** section has been added. 
 
+![FilterSearch](https://github.com/DannyJohnson-Hi/UFOs/blob/main/static/images/FIlterSearch.png)
+
+
 - You can filter by one or all of the search criteria shown. For example, if you search by **"City"**, you will see that the table updated to show the reported sightings that was recorded for that specific city.
 
 
+![CitySearch](https://github.com/DannyJohnson-Hi/UFOs/blob/main/static/images/citysearch.png)
+
 - If you add a shape, the table will update filtering further to only display the information containing that shape.
+
+![ShapeSearch](https://github.com/DannyJohnson-Hi/UFOs/blob/main/static/images/deletesearch.png)
 
 
 - Or if you delete your previous entries and enter **"State"** and **"Shape"**, the table will update using your new criteria.
 
-
+![DeleteSearch](https://github.com/DannyJohnson-Hi/UFOs/blob/main/static/images/deleteSearch1.png)
 
 ## Summary
 
